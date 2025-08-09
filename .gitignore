@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# Entornos
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data & modelos (mantén vacías con .gitkeep)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+models/
+artifacts/
+
+# Tensores / modelos comunes
+*.npy
+*.npz
+*.pkl
+*.keras
+*.h5
+*.ckpt*

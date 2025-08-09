@@ -1,0 +1,13 @@
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.3.0
+scikit-learn==1.7.0
+matplotlib==3.10.3
+seaborn==0.13.2
+joblib==1.5.1
+h5py==3.14.0
+protobuf==5.29.5
+tensorboard==2.19.0
+tensorflow==2.19.0
+tensorflow-io-gcs-filesystem==0.31.0
+rich==14.0.0
